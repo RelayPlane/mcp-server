@@ -1,6 +1,6 @@
 {
   "name": "@relayplane/mcp-server",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "MCP server for efficient AI workflow orchestration with RelayPlane",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
